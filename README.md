@@ -56,4 +56,9 @@ git push origin master -> Sobe para o github os arquivos que estão na “origin
 
 git status -> Verifica o status dos arquivos na máquina local;
 
+git pull origin master -> Puxa os arquivos do github para a máquina local;
+
+git clone “link do repositório” -> Clonar um repositório.
+
+
 
